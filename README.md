@@ -1,6 +1,9 @@
 # Nexan 👋
+## Por **Basiu de programi 1**:
+(Do podstaw programowania)
 
-Ai nun`i worki ov:
+
+## Ai nun`i worki ov:
 - **Logua** (Lua Runtime for LogOS)
 - **LogOS** Operating System (LogOS) familu, kiu havi:
   - **LogOS server** (Node.JS)
