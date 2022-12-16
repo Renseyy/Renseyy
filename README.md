@@ -1,6 +1,6 @@
 # Nexan 👋
-## Por **Basiu de programi 1**:
-(Do podstaw programowania)
+## Por **Informac`i tulu**:
+(Do Narzędzi informatycznych)
 
 - Artykuł: [https://arxiv.org/pdf/2212.01020v1.pdf](https://arxiv.org/pdf/2212.01020v1.pdf)
 - Repo: [https://github.com/deepmind/code_contests](https://github.com/deepmind/code_contests)
